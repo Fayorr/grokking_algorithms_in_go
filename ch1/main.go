@@ -20,5 +20,5 @@ func binarySearch(arr []int, item int) int {
 }
 
 func main() {
-	fmt.Println(binarySearch([]int{-1, 3, 5, 7, 10, 15, 29, 950}, 950))
+	fmt.Println(binarySearch([]int{-1, 3, 5, 7, 10, 15, 29, 950}, 5))
 }
